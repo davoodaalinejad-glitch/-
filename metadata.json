@@ -1,0 +1,8 @@
+{
+  "name": "مدیریت و ارزیابی پورتفوی دارایی‌ها",
+  "description": "پیگیری لحظه‌ای ارزش دارایی‌های طلا، ارز، رمزارز و سهام با استعلام آنلاین نرخ‌ها، ورودی و خروجی اکسل و نمودار تاریخچه تغییرات روزانه",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
